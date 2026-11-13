@@ -1,6 +1,123 @@
-[
-  { "sentence": "Vad heter du?", "english_meaning": "What is your name?" },
-  { "sentence": "Jag heter Kenner.", "english_meaning": "My name is Kenner" },
-  { "sentence": "Hur mår du?", "english_meaning": "How are you?" },
-  { "sentence": "Jag mår bra", "english_meaning": "I am fine." }
-]
+{
+"sentences": [
+	{
+		"id" : 1,
+		"sentence" : "Vad heter du?",
+		"english_meaning" : "What is your name?"
+	},
+	{
+		"id" : 2,
+		"sentence" : "Jag heter Kenner.",
+		"english_meaning" : "My name is Kenner"
+	},
+	{
+		"id" : 3,
+		"sentence" : "Hur mår du?",
+		"english_meaning" : "How are you?"
+	},
+	{
+		"id" : 4,
+		"sentence" : "Jag mår bra",
+		"english_meaning" : "I am fine."
+	},
+	{
+		"id" : 5,
+		"sentence" : "Daniel, jag är här!",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 6,
+		"sentence" : "ropar Julia när hon öppnar ytterdörren",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 7,
+		"sentence" : "Vad är det, Julia? svarar jag",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 8,
+		"sentence" : "Vi ska resa till Sverige idag!",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 9,
+		"sentence" : "Kommer du inte ihåg det?",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 10,
+		"sentence" : "Klart jag gör. Jag är snart färdig,",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 11,
+		"sentence" : "ropar jag.",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 12,
+		"sentence" : "OK, jag går upp på mitt rum och väntar,",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 13,
+		"sentence" : "säger Julia.",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 14,
+		"sentence" : "Jag heter Daniel. Jag är 24 år.",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 15,
+		"sentence" : "Julia är min syster. Hon är 23.",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 16,
+		"sentence" : "Vi går på universitetet.",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 17,
+		"sentence" : "Vi bor i ett hus i London tillsammans",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 18,
+		"sentence" : "med våra föräldrar Arthur och Sarah Bell.",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 19,
+		"sentence" : "Julia och jag ska ut och resa.",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 20,
+		"sentence" : "Vi ska åka till Svarige.",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 21,
+		"sentence" : "Vi ska plugga svenska i stockholm",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 22,
+		"sentence" : "en termin.",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 23,
+		"sentence" : "Vi kan redan språket ganska",
+		"english_meaning" : ""
+	},
+	{
+		"id" : 24,
+		"sentence" : "bra men vi vill lära oss mer.",
+		"english_meaning" : ""
+	}
+]}
